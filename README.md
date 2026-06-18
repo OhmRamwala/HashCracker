@@ -1,6 +1,6 @@
-# hashcracker
+# HashCracker
 
-`hashcracker` is a Linux-only, multi-threaded password hash cracking tool built in modern C++ with OpenSSL, Boost, and memory-mapped dictionary scanning.
+`HashCracker` is a Linux-only, multi-threaded password hash cracking tool built in modern C++ with OpenSSL, Boost, and memory-mapped dictionary scanning.
 
 It is designed primarily for Kali Linux and other modern Linux distributions, with a focus on:
 
