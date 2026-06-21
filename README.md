@@ -231,3 +231,5 @@ The `learn/` directory documents the theory and architecture behind the tool:
 ## License
 
 MIT
+
+This tool is developed for authorized security testing, academic research, and CTF competitions. Unauthorized use against systems you do not own is illegal
